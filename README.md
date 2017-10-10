@@ -74,4 +74,4 @@ them separately or manage PaperScope/canvas binding from javascript/paperscript.
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/paperjs.
+Bug reports and pull requests are welcome on GitHub at https://github.com/koparo/paperjs.
