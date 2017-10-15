@@ -1,6 +1,6 @@
 # Paperjs
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/paperjs`. To experiment with that code, run `bin/console` for an interactive prompt.
+Paper.js — The Swiss Army Knife of Vector Graphics Scripting.
 
 This gem bundles the upstream distribution for use with the Ruby on Rails framework. The version number of
 the gem always tracks the upstream javascript release and the gem itself doesn't provide any additional
