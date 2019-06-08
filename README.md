@@ -36,11 +36,11 @@ Or install it yourself as:
 
 If you want to just use the Javascript paper.js API without paperscript support add the following in `application.js`:
 
-    //= paperjs-core
+    //= paper-core
 
 If you wish to user paperscript in your rails application include the following instead:
 
-    //= paperjs-full
+    //= paper-full
 
 Paperscript files should be included as type text/paperscript, you can set up the rails asset pipeline to handle
 this without mixing your paperscript and javacsript files.
